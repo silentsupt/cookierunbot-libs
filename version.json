@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.1/CookieRunBot.exe",
+  "sha256": "f956186a4b4aead8acb8c68e90646f1259b7d65ef54b065517bde850e47ae557",
+  "notes": "แก้ activation ต่อ KeyAuth บนบางเครื่อง + หน้า activation อังกฤษ/จัดกลาง/ลากได้ + aurora"
+}
