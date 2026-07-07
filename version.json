@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.3/CookieRunBot.exe",
-  "sha256": "474580a90ef6e2db39cef6fa6ac3c40d5dfe448947dfd6d208b06079b8821f61",
-  "notes": "เพิ่มสุ่ม Pet ในโหมดรีไอดี + resume ต่อจากจุดค้าง + แก้จอขาวตอนเปิด + ลากย้ายหน้าต่างได้ทั้งจอ"
+  "version": "1.0.4",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.4/CookieRunBot.exe",
+  "sha256": "d87fcf54e470576efb51bf94f07dcf720dc84c3281214a4a8f439eb8a2c4d2f8",
+  "notes": "ตั้งจำนวนสมบัติขั้นต่ำ + ตัวสำคัญที่สุดของ Pet + นับของในตู้ตอน resume"
 }
