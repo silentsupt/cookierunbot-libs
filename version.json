@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.2/CookieRunBot.exe",
-  "sha256": "487e6f7330956b8639d4afcc0c8e94441d40df57ec7e6c0e55cb92a2aa30acfb",
-  "notes": "แก้ activate บนเครื่องที่ ISP บล็อก keyauth.win → ต่อผ่าน Cloudflare Worker (ไม่ต้องใช้ VPN)"
+  "version": "1.0.3",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.3/CookieRunBot.exe",
+  "sha256": "474580a90ef6e2db39cef6fa6ac3c40d5dfe448947dfd6d208b06079b8821f61",
+  "notes": "เพิ่มสุ่ม Pet ในโหมดรีไอดี + resume ต่อจากจุดค้าง + แก้จอขาวตอนเปิด + ลากย้ายหน้าต่างได้ทั้งจอ"
 }
