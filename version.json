@@ -1,6 +1,6 @@
 {
-    "version": "1.0.7",
-    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.7/CookieRunBot.exe",
-    "sha256": "d1e7431bff25bb663b148354a8c4fb765d6947fab51d0cffec1fda1314e49bc8",
-    "notes": "Fix Auto Reconnect + New Foce quit + Reroll เร็วขึ้น + BugFix"
+    "version": "1.0.8",
+    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.8/CookieRunBot.exe",
+    "sha256": "0053f3f005b2eaebe95d2e08ac1ff81d23fa5fc7c84ae40ecfcb460b67a40cb5",
+    "notes": "Reroll เร็วขึ้น + สุ่ม 9 ครั้งวันอาทิตย์ + SafeMode/RiskMode ยุบได้ + แก้รีไอดีด้วยไฟล์ (C80C5535/age/terms) + BugFix"
 }
