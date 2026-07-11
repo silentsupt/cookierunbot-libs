@@ -1,6 +1,6 @@
 {
-    "version": "1.0.6",
-    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.6/CookieRunBot.exe",
-    "sha256": "22f8d8793286c53e66da69e8c1f7de595fdcccbaa808a4b526cf424f797eea03",
-    "notes": "Run-mode Auto Reconnect + Boost Setting ใหม่ + Reroll เร็วขึ้น + BugFix"
+    "version": "1.0.7",
+    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.7/CookieRunBot.exe",
+    "sha256": "54ce7a4ce236900b1c806782ccd3fcbd6453dc616a93afcfe6b2cfce280a6ded",
+    "notes": "Fix Auto Reconnect + New Foce quit + Reroll เร็วขึ้น + BugFix"
 }
