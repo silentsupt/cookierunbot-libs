@@ -1,6 +1,6 @@
 {
   "version": "1.0.9",
   "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.9/CookieRunBot.exe",
-  "sha256": "5a7fb60a84a279828f62ed3e8594ccf4d4def381345493c0dff565d6691079ad",
+  "sha256": "sha256:0148d0c92f51bbe0753bde1825dc2f00b0eb3f4f6d5d73252758a31bd5fe1461",
   "notes": "Auto Proxy แก้ IP โดนบล็อก (Login failed/SDK Code:0) + แก้ตั้งชื่อไม่ผ่าน + Mailbox flow"
 }
