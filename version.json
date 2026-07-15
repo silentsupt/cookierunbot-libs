@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.0/CookieRunBot.exe",
-  "sha256": "83d49e7f864b1dd164ef8d18910a7894896c3f0234cf2a6c8fa555e9c0a36888",
-  "notes": "ปิดโปรแกรมได้สบายใจขึ้น — กดกากบาทแล้วระบบจะเคลียร์ Auto Proxy ให้เองก่อนปิด ทั้งถอน proxy คืนเน็ตอีมูทุกเครื่อง ปิด Tor และรีเกมเครื่องที่ยังวิ่งผ่าน proxy อยู่ จะได้ไม่เจอเน็ตค้างหรือ Login failed หลังปิดบอท / แถมสอนบอทให้รู้จักหน้า Previous Results ที่ชอบเด้งหลังรีเกมแล้ว เจอเมื่อไหร่ก็กด Confirm เก็บผลให้เองเลย ไม่ค้างวนรีเกมอีก"
+    "version": "1.1.1",
+    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.1/CookieRunBot.exe",
+    "sha256": "df45cf935cde3c50aaf0de3777fc236de3ab9e6046c7f12eb91c1ccccbd121aa",
+    "notes": "BugFix"
 }
