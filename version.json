@@ -1,6 +1,6 @@
 {
-    "version": "1.0.9",
-    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.0.9/CookieRunBot.exe",
-    "sha256": "0148d0c92f51bbe0753bde1825dc2f00b0eb3f4f6d5d73252758a31bd5fe1461",
+    "version": "1.1.1",
+    "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.1/CookieRunBot.exe",
+    "sha256": "f1e6b81388316c711bdcd5775b69e377c791204d33b16d6f259f047e9a124082",
     "notes": "BugFix"
 }
