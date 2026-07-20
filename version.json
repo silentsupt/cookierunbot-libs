@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.5/CookieRunBot.exe",
-  "sha256": "3e4c6c19c8c40b4dfb804f57c3993c37235d1f9b3d0caba4284ba2d763c13304",
-  "notes": "Add Logout + Add Copy Setting + BugFix"
+  "version": "1.1.5.1",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.5.1/CookieRunBot.exe",
+  "sha256": "999c1ec705ed7c380410861b85f7d827d3ccdf8512cc55795dd9ab7c35e0ed53",
+  "notes": "Optimize Tap + Fix Setname + Fix Bug"
 }
