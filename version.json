@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6/CookieRunBot.exe",
-  "sha256": "61f21f6104e89352e5a8bb3c2ddecd9d362818e078dff8a1df5cb6ebf7fca1ff",
-  "notes": "Fix Scan Diamond"
+  "version": "1.1.6.1",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.1/CookieRunBot.exe",
+  "sha256": "a9247256a9b32bbc6a96048816b3617433d1d3e23f2448c975f38622054213ae",
+  "notes": "Fix Relic popup + reroll เน็ตหลุด"
 }
