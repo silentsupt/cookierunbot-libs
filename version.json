@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6.2",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.2/CookieRunBot.exe",
-  "sha256": "e1a8d143d07cbff94c2a4c50d9c1200d5c1a48470f760328cd5e987126f6c594",
-  "notes": "Add Auto Redeem Code + Fix lobby issues + Fix UI"
+  "version": "1.1.6.3",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.3/CookieRunBot.exe",
+  "sha256": "968084f31f0cf4751ba7f2ec74147345bbd38cd11db772032fce49f0513935fe",
+  "notes": "Fix Daily issue"
 }
