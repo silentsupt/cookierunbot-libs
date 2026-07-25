@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6.1",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.1/CookieRunBot.exe",
-  "sha256": "a9247256a9b32bbc6a96048816b3617433d1d3e23f2448c975f38622054213ae",
-  "notes": "Fix Relic popup + reroll เน็ตหลุด"
+  "version": "1.1.6.2",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.2/CookieRunBot.exe",
+  "sha256": "e1a8d143d07cbff94c2a4c50d9c1200d5c1a48470f760328cd5e987126f6c594",
+  "notes": "Add Auto Redeem Code + Fix lobby issues + Fix UI"
 }
