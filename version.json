@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6.4",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.4/CookieRunBot.exe",
-  "sha256": "adb05e254db6816a850a88386710ab4ac5efcf5e0580ea6e7494fe0c263d1019",
-  "notes": "Fix Reroll + Fix Mail"
+  "version": "1.1.6.5",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.6.5/CookieRunBot.exe",
+  "sha256": "a3f9925164768490eba62c6e1cba0b572bfcb5710ad6f94b55cedf04eabf7502",
+  "notes": "Fix Reroll"
 }
