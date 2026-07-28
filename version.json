@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7.1",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.7.1/CookieRunBot.exe",
-  "sha256": "5705594fd916d9360050ad9564453606dcc56a48a74ebd39aa838e4cbb3b18af",
-  "notes": "Fix Reroll"
+  "version": "1.1.7.2",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.7.2/CookieRunBot.exe",
+  "sha256": "41c92e4b4038ffce9eb9ff994dae82a78cef83cdaa69f96efb192dd5f589a2d2",
+  "notes": "Fix Auto Redeem"
 }
