@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.8/CookieRunBot.exe",
-  "sha256": "a2a68486565ff51c00bf7c928042a6ff1fadde8912a9908258bbf7de9a59fe9d",
-  "notes": "Add Auto Gift Heart + Fix Auto Redeem"
+  "version": "1.1.9",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.9/CookieRunBot.exe",
+  "sha256": "af13346f8db76236c47fcc615a5d09901a34fcd87795bd828c875eacb641aae9",
+  "notes": "Add Key Tier (Basic / Reroll / Full) + Fix UI"
 }
