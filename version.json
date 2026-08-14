@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9.1",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.1.9.1/CookieRunBot.exe",
-  "sha256": "b750cc9ddf4e984803f13b84660888df58b40e75b36c064f756309e02fed9536",
-  "notes": "Fix Auto Heart Api"
+  "version": "1.2",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.2/CookieRunBot.exe",
+  "sha256": "246af9a93d7576d4a926e5b773e356467ac5631b4837696468f91ef4ab2ed591",
+  "notes": "Add Auto Api2 User:Pass"
 }
