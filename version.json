@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.2.3/CookieRunBot.exe",
-  "sha256": "06458f278bff545c74e7b72b89228bbf4f72d19ea3a0e9409e5460b7c7c13b7a",
-  "notes": "Fix Api2"
+  "version": "1.2.4",
+  "url": "https://github.com/silentsupt/cookierunbot-libs/releases/download/v1.2.4/CookieRunBot.exe",
+  "sha256": "c462195e64cbcdd6eb6ca0ab637e3b176ea5abdf1d6962af114302c76d3613bb",
+  "notes": "Fix Ui + Fix Api2"
 }
